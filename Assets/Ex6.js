@@ -15,7 +15,7 @@ alert( b = --x );
 
 var c = 1.00;
 
-alert(a + c);
+alert(c + a);
 
 /* Script pour inverser la valeur de d */
 
